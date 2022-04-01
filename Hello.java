@@ -12,5 +12,6 @@ public class Hello {
 		System.out.println("Git Study Hard...");
 		System.out.println("Hahahaha...";
 		System.out.println("Branch");
+		System.out.println("Hello Git2!");
 	}
 }
